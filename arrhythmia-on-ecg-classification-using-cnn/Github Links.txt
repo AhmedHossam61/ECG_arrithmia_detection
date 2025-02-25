@@ -1,0 +1,12 @@
+Data : 
+https://www.kaggle.com/datasets/shayanfazeli/heartbeat/data
+
+NoteBooks :
+
+1-Easy one
+
+ https://www.kaggle.com/code/mrsa3dola/ecg-heartbeat-using-nn/notebook
+
+2- Easy but longer 
+
+https://www.kaggle.com/code/gregoiredc/arrhythmia-on-ecg-classification-using-cnn/notebook
